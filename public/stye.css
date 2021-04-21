@@ -1,0 +1,86 @@
+body{
+    background-color: #F0F2F5;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+#logo {
+    position: fixed left;
+    margin-top: 10px;
+}
+
+.home {
+    color: blue;
+    margin: 30px;
+}
+
+.video {
+    color: blue;
+    margin: 30px;
+}
+
+.marker {
+    color: blue;
+    margin: 30px;
+
+}
+
+.user {
+    color: blue;
+    margin: 30px;
+}
+
+.dice {
+    color: blue;
+    margin: 30px;
+
+
+}
+
+header {
+
+    border: solid 1px;
+    margin: 1px;
+
+}
+
+.nav {
+    display: flex;
+    margin-left: 30%;
+    margin-top: -50px;
+}
+
+nav {
+    
+    font-weight: bold;
+    background-color: #F0F2F5;
+    width: 20%;
+    overflow: hidden;
+    height: 80vh;
+   
+ }
+ nav:hover{
+    overflow-y: scroll;
+    font-weight: bold;
+    
+    width: 20%;
+    
+    height: 80vh;
+  
+ }
+
+ nav div {
+    padding: 30px;
+    
+}
+ .search{
+     margin-left: 50px;
+    margin-top: -50px;
+    width: 10px;
+}
+
+.profileimg{
+    border: 1px solid rgb(206, 35, 35) 10px;
+   border-radius: 20px;
+   
+}
+
